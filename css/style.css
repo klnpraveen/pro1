@@ -1,0 +1,9 @@
+@import url(http://fonts.googleapis.com/css?family=Lato:400,400italic);
+::selection{ background-color: #2ecc71; color: white; }
+::moz-selection{ background-color: #2ecc71; color: white; }
+::webkit-selection{ background-color: #2ecc71; color: white; }
+body{
+	padding: 20px;
+	font-family: 'Lato', sans-serif;
+}
+
